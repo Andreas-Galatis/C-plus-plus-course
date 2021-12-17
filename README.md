@@ -1,4 +1,4 @@
-# C-plus-plus-course
+# Investment Code
 CS-210-T2578 Programming Languages 21EW2
 
 **Summarize the project and what problem it was solving.**
